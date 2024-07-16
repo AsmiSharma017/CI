@@ -1,0 +1,7 @@
+.nav{
+    display: flex;
+    margin-left: 500%;
+}
+body{
+    background-image: -o-linear-gradient(to bottom, khaki,pink);
+}
